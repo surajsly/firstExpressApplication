@@ -1,0 +1,14 @@
+{
+  "name": "firstexpressapplication",
+  "version": "1.0.0",
+  "description": "first Express Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suraj",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
